@@ -1,0 +1,11 @@
+order_id,customer,product,quantity,unit_price,total_amount
+1001,Ahmed Hassan,Laptop,2,25000.0,50000.0
+1002,Sara Ali,Mouse,1,500.0,500.0
+1003,Omar Mohamed,Keyboard,3,1200.0,3600.0
+1004,Mona Ibrahim,Laptop,1,25000.0,25000.0
+1005,Ahmed Hassan,Monitor,2,7000.0,14000.0
+1006,Ahmed Hassan,Mouse,1,500.0,500.0
+1007,Sara Ali,Headphones,4,2500.0,10000.0
+1008,Omar Mohamed,Laptop,1,25000.0,25000.0
+1009,Mona Ibrahim,Keyboard,2,1200.0,2400.0
+1010,Ahmed Hassan,Monitor,1,7000.0,7000.0
