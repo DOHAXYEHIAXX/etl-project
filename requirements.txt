@@ -4,3 +4,4 @@ flask
 sqlalchemy
 pyodbc
 requests
+python-dotenv
